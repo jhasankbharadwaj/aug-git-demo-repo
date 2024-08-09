@@ -6,5 +6,9 @@ checking with pull request
 yes, I edited the file successfully
 
 line added by another developer
+<<<<<<< HEAD
 
 hai this is jhasank . 
+=======
+this is new change jhasank
+>>>>>>> dfa1c9657fb00bb91dec2164c531beb27cab91ec
