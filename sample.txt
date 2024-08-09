@@ -1,3 +1,5 @@
 this is sample file contributed by poonkuzhali
-yes, I edited the file succesfully
+yes, I edited the file successfully
+
+line added by another developer
 
